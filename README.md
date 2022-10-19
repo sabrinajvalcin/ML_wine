@@ -1,7 +1,7 @@
 # ML_wine
 I used Machine Learning Models to predict wine color
 
-- Raw data files:
+Raw data files:
 - winequality-red.csv
 - winequality-white.csv
 
